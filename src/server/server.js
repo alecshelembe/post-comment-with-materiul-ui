@@ -14,7 +14,7 @@ app.use(bodyParser.json())
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
-
+// fill in the uri for you mongo db bellow
 const uri="mongodb+srv://<username>:<password>@cluster0.iiwqhxt.mongodb.net/?retryWrites=true&w=majority";
 
 
