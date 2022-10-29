@@ -15,7 +15,7 @@ app.use(bodyParser.json())
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 
-const uri="mongodb+srv://ashelembe:1Mongodb1@cluster0.iiwqhxt.mongodb.net/?retryWrites=true&w=majority";
+const uri="mongodb+srv://<username>:<password>@cluster0.iiwqhxt.mongodb.net/?retryWrites=true&w=majority";
 
 
 async function connect(){
