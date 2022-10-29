@@ -1,3 +1,6 @@
+1. Visit the server.js file to edit the monogodb uri
+thats all...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
